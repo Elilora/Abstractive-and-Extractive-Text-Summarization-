@@ -10,7 +10,7 @@ Text summerization is the task of generating a short or a summarized description
 4.   Conclusion.  
 
 # Main prerequisites for the summarization task
-
+- Python == 3.X
 - Keras == 2.3.1
 - Tensorflow == 2.2.0 
 - Spacy == 2.2.4
